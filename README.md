@@ -53,11 +53,11 @@ Expert Ruby on Rails 5
 [ ] 28. Layouts and Stylesheets 14:09
 [ ] 29. Controllers and Actions 13:12
 [ ] 30. Testing Controllers 10:30
-[ ] 31. RESTful APIs 10:17
-[ ] 32. Creating an API Project with Rails 12:25
-[ ] 33. Authenticating API Clients 13:28
-[ ] 34. Refining the API 6:07
-[ ] 35. Consuming the API 27:16
+[x] 31. RESTful APIs 10:17
+[x] 32. Creating an API Project with Rails 12:25
+[x] 33. Authenticating API Clients 13:28
+[x] 34. Refining the API 6:07
+[x] 35. Consuming the API 27:16
 [ ] 36. What Is ActionCable? 3:25
 [ ] 37. Setting Up for ActionCable 5:33
 [ ] 38. Creating Notifications 7:29
